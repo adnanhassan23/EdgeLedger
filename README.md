@@ -10,7 +10,7 @@ EdgeLedger is a one page Accounting Consultant page that provides the user with 
 
 Click on our website to visit our EdgeLedger website
 
-https://jt227b.github.io/Edge-Ledger/
+https://adnanhassan23.github.io/EdgeLedger/
 
 ### Menu
 
